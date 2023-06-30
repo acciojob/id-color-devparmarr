@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+p {
+      padding: 10px;
+      color: black;
+      font-size: 18px;
+      font-weight: bold;
+      
+      margin: 10px;
+    }
+
+    /* 'yellow' paragraph style */
+    #yellow {
+      background-color: yellow;
+      border: 1px solid green;
+    }
+
+    /* 'red' paragraph style */
+    #red {
+      background-color: red;
+      border: 1px solid black;
+    }
+
+    /* 'green' paragraph style */
+    #green {
+      background-color: green;
+      border: 1px solid yellow;
+    }
